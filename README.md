@@ -10,7 +10,7 @@ or you can reach me at this email
 thereal.vincent.smith@gmail.com
 
 
-currently I have uploaded a simple nested for loop exercise to a C++ file called "pyramid.cpp".
+currently I have uploaded a simple nested for loop exercise in a C++ file called "pyramid.cpp".
 
 num_guess_while_loop taught me while loops and was technically my first nested loop
 
