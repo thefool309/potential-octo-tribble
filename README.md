@@ -14,7 +14,7 @@ num_guess_while_loop taught me while loops and was technically my first nested l
 
 the-contract helped me figure out if statemonts and contains my first for loop.
 
-I have uploaded NPC and NPC++ two versions of a DND 5e character generator I'm working on as well. Built in Python and C++ respectively.
+I have uploaded NPC and NPC++, two versions of a DND 5e character generator I'm working on. These are built in Python and C++ respectively.
 as I update them elsewhere I will update them here as well.
 
 to be continued...
