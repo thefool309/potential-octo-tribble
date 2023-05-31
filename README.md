@@ -10,4 +10,10 @@ or you can reach me at this email thereal.vincent.smith@gmail.com
 
 currently I have uploaded a simple nested for loop exercise to a C++ file called "pyramid.cpp".
 
+num_guess_while_loop taught me while loops and was technically my first nested loop
+
+the-contract helped me figure out if statemonts and contains my first for loop.
+
+I will upload NPC and NPC++ two versions of a DND 5e character generator I'm working on as well. Built in Python and C++ respectively.
+
 to be continued...
