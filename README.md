@@ -9,3 +9,5 @@ or you can reach me at this email thereal.vincent.smith@gmail.com
 
 
 currently I have uploaded a simple nested for loop exercise to a C++ file called "pyramid.cpp".
+
+to be continued...
