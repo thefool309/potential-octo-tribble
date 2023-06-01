@@ -12,7 +12,7 @@ thereal.vincent.smith@gmail.com
 
 currently I have uploaded a simple nested for loop exercise in a C++ file called "pyramid.cpp".
 
-num_guess_while_loop.cpp taught me while loops and was technically my first nested loop
+num_guess_while_loop.cpp taught me while loops and was kind of my first nested loop
 
 the-contract.cpp helped me figure out if statements and contains my first for loop.
 
