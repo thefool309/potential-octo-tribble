@@ -19,6 +19,6 @@ the-contract.cpp helped me figure out if statements and contains my first for lo
 I have uploaded NPyC and NPC++, two versions of a DND 5e character generator I'm working on. These are built in Python and C++ respectively.
 as I update them elsewhere I will update them here as well.
 
-I have uploaded an excercise in which I learned to define and call functions.
+I have uploaded an excercise in which I learned to define and call functions: definiing_and_calling_function.cpp.
 
 to be continued...
