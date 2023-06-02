@@ -16,7 +16,9 @@ num_guess_while_loop.cpp taught me while loops and was kind of my first nested l
 
 the-contract.cpp helped me figure out if statements and contains my first for loop.
 
-I have uploaded NPC and NPC++, two versions of a DND 5e character generator I'm working on. These are built in Python and C++ respectively.
+I have uploaded NPyC and NPC++, two versions of a DND 5e character generator I'm working on. These are built in Python and C++ respectively.
 as I update them elsewhere I will update them here as well.
+
+I have uploaded an excercise in which I learned to define and call functions.
 
 to be continued...
