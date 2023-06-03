@@ -15,16 +15,12 @@ int main()
         if (number != secretnumber)
            { 
             cout << "Wrong Try Again!" << endl;
-
-            ShellExecute(NULL, "open", "https://www.youtube.com/watch?v=dQw4w9WgXcQ", NULL, NULL, SW_SHOWNORMAL);
-                
+            ShellExecute(NULL, "open", "https://www.youtube.com/watch?v=dQw4w9WgXcQ", NULL, NULL, SW_SHOWNORMAL);    
            }
         else 
         {
             cout << "Good Job!" << endl;
-            
             ShellExecute(NULL, "open", "https://www.youtube.com/watch?v=34X4faVQ63Y", NULL, NULL, SW_SHOWNORMAL);
-            
             break;
         }
     }

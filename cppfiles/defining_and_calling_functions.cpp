@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// comparing two numbers and printing the higher value
 int compare(int firstnum, int secondnum)
 {
     // this function compares the two numbers to see which is larger and prints the larger value
@@ -15,7 +15,7 @@ int main()
     int secondtempnum;
     
     // ask the user for two integers
-    cout << "First Integer: " << endl;
+    cout << "First Integer: " << endl;   
     cin >> firsttempnum;
     cout << "Second Integer: " << endl;
     cin >> secondtempnum;
@@ -25,4 +25,5 @@ int main()
 
     system("pause");
     return 0;
+    
 }
